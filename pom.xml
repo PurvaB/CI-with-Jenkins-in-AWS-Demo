@@ -50,4 +50,11 @@
             </plugin>
         </plugins>
     </build>
+    <distributionManagement>
+    <repository>
+      <id>NexusRepository</id>
+      <name>NexusRepository</name>
+      <url>http://35.244.28.93:8081/repository/NexusRepository/</url>
+    </repository>
+    </distributionManagement>
 </project>
