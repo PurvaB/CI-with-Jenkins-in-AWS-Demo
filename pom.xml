@@ -54,7 +54,7 @@
     <repository>
       <id>123456</id>
       <name>NexusRepository</name>
-      <url>http://35.244.28.93:8081/repository/NexusRepository/</url>
+      <url>http://35.244.28.93:8081/repository/nexus-releases/</url>
     </repository>
     </distributionManagement>
 </project>
