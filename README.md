@@ -1,2 +1,2 @@
 # CI-with-Jenkins-in-GCP-Demo
-#updated for CI -CD testing job
+#updated readme for CI -CD testing job
