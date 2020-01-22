@@ -52,7 +52,7 @@
     </build>
     <distributionManagement>
     <repository>
-      <id>NexusRepository</id>
+      <id>123456</id>
       <name>NexusRepository</name>
       <url>http://35.244.28.93:8081/repository/NexusRepository/</url>
     </repository>
